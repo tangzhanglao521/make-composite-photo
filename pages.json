@@ -1,0 +1,23 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/makerpaper/makerpaper",
+			"style": {
+				"navigationBarTitleText": "制作合成照片",
+				"usingComponents": {
+				  "van-row": "/wxcomponents/vant/dist/row/index",
+				  "van-col": "/wxcomponents/vant/dist/col/index",
+				  "van-uploader": "/wxcomponents/vant/dist/uploader/index",
+				  "van-button": "/wxcomponents/vant/dist/button/index"
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "合成照片",
+		"backgroundColor": "#F8F8F8",
+		"navigationBarBackgroundColor": "#F1F1F1",
+		"navigationStyle":"custom"
+	}
+}
