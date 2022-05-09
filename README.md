@@ -1,7 +1,7 @@
 # make-composite-photo
 
 #### 介绍
-本项目是用来合成图片的demo，主要使用了canvas，并且使用的是uniapp，可以做微信小程序以及app,h5等
+本项目是用来合成图片的，主要使用了canvas，并且使用的是uniapp，可以做微信小程序以及app,h5等
 
 #### 软件架构
 软件架构说明
