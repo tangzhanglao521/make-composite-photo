@@ -17,6 +17,7 @@ vue,uniapp,canvas
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/105191710/167549845-ac6995a0-207d-4258-9c0f-396a3b15dfdb.png">
 
 
 ![mmexport1652160470807](https://user-images.githubusercontent.com/105191710/167549268-e78562cd-9526-4707-ade4-c94744e35632.png)
