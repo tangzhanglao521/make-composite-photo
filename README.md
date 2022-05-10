@@ -19,3 +19,4 @@ vue,uniapp,canvas
 4.  新建 Pull Request
 
 
+![mmexport1652160470807](https://user-images.githubusercontent.com/105191710/167549268-e78562cd-9526-4707-ade4-c94744e35632.png)
